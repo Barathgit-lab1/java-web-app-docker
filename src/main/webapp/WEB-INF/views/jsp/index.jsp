@@ -21,7 +21,7 @@
 
 <div class="jumbotron">
 	<div class="container">
-		<h1>${Welcome to Docker1}</h1>
+		<h1>${empty}</h1>
 		<p>
 			<c:if test="${not empty msg}">
 				Hello ${msg}
